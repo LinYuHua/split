@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">split</string>
+    <string name="accessibility_explanation">This is required to automatically enter multi window mode, if you chose to not enable this you will be prompted to manually enter multi window mode.</string>
+    <string name="launch_splitscreen_howto">Please launch split screen mode by long pressing the recents button, or enable Screens in accessibility options.</string>
+    <string name="accessibility_options">Accessibility Options</string>
 </resources>
